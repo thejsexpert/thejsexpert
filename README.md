@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thejsexpert
+- 👋 Hi, I’m [@thejsexpert1](https://twitter.com/TheJSExpert1)
 - 👀 I’m interested in JavaScript Projects as well as TypeScript
 - 🌱 I’m currently learning Beyond ES6(2015)
 - 💞️ I’m looking to collaborate on Open Source Projects
