@@ -1,23 +1,34 @@
 - 👋 Hi, I’m **[@thejsexpert1](https://twitter.com/TheJSExpert1)**
 - 👀 I’m interested in **JavaScript Projects as well as TypeScript**
----
 - 🌱 I’m currently learning **JS Stack**
-# UI Library
-> **Angular Material, Material-UI (React) , Vuetify (Vue)**
-# Store Management
-> **Redux, ngrx, Vuex**
-# FRONTEND
-> **Angular, React, Vue**
-# BACKEND
-> **Express, Nuxt**
-# API Integration
-> **REST API (REpresentational State Transfer) by Roy Fielding**
+
+ ---
+ 
+### UI Library
+- **Angular Material, Material-UI (React) , Vuetify (Vue)**
+
+### Store Management
+- **Redux, ngrx, Vuex**
+
+### FRONTEND
+- **Angular, React, Vue**
+
+### BACKEND
+- **Express, Nuxt**
+
+### API Integration
+- **REST API (REpresentational State Transfer) by Roy Fielding**
+
 ---
-# Database
-> **MongoDB, Redis**
-# Mobile Application in JS
-> **React Native**
+
+### Database
+- **MongoDB, Redis**
+
+### Mobile Application in JS
+- **React Native**
+
 ---
+
 - 💞️ I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me **[Twitter](https://twitter.com/TheJSExpert1)**
 
